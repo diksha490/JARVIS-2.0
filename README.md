@@ -11,6 +11,6 @@
   
 **Step-1**
 - Install Requests Library
-  - [pip install requests](https://pypi.org/project/requests/) in cmd
+  - [pip install requests](https://pypi.org/project/requests/)
 - For implementing GUI Interface
-  - [pip install tkinter](https://pypi.org/project/tk-tools/)
+  - [pip install tk-tools](https://pypi.org/project/tk-tools/)
