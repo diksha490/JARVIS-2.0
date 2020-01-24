@@ -23,7 +23,7 @@
   - [pip install html5lib](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) 
 
 **Step-3**
-***Making Soup***
+**Making Soup**
 - To parse a document, pass it into the BeautifulSoup constructor. You can pass in a string or an open filehandle:
   ```
   from bs4 import BeautifulSoup
