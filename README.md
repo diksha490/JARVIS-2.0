@@ -26,6 +26,10 @@
   - [pip install html5lib](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) 
 
 **Step-3**
+**Install Panda**
+- [pip install panda]
+- store data in csv format on system
+
 **Making Soup**
 - To parse a document, pass it into the BeautifulSoup constructor. You can pass in a string or an open filehandle:
   ```
