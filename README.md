@@ -1,9 +1,10 @@
 # Web Scrapper
 
-```
+
 - ***Author-Saurabh Puri***
 
 **Technology-**
+```
 - Python 3.7
 - BeautifulSoup Library
   - Beautiful Soup is a Python library for parsing structured data.
