@@ -20,12 +20,7 @@
 **Step-2**
 - Beautiful Soup supports the HTML parser included in Python’s standard library, but it also supports a number of third-party Python parsers.
 - The pure-Python html5lib parser, which parses HTML the way a web browser does. Depending on your setup, you might install html5lib with one of these commands.
-  - [pip install html5lib](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-- BeautifulSoup(markup, "html5lib")
-  - Advantages:
-    - Extremely lenient
-    - Parses pages the same way a web browser does
-    - Creates valid HTML5  
+  - [pip install html5lib](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) 
 
 **Step-3**
 ***Making Soup***
@@ -33,9 +28,9 @@
   ```
   from bs4 import BeautifulSoup
 
-with open("index.html") as fp:
-    soup = BeautifulSoup(fp)
+  with open("index.html") as fp:
+  soup = BeautifulSoup(fp)
 
-soup = BeautifulSoup("<html>data</html>")
+  soup = BeautifulSoup("<html>data</html>")
   ```
   
