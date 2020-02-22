@@ -1,18 +1,20 @@
 
-# Wolframalpha API
+# Selenium Library
 
-- The API fetches the result from [www.wolframalpha.com](www.wolframalpha.com)
+- The selenium package is used to automate web browser interaction from Python.
 
-- **USES**
-  - Calculate Integration or Differentiation of a function
-  - Solve basic Mathematical equations.
-  - Trignometric functions.
-  - Famous Mathematical Theorems.
-  - Get current Temperature of a Place.
+**USES**
+- open a new Firefox browser
+- load the page at the given URL
   
+**Requirements**
+- geckodriver for browsing on firefox
 
-- **Installation**
+**Documentation**
+- Available at [pypi.org](https://pypi.org/project/selenium/)
+ 
+**Installation**
 
 ```
-pip install wolframalpha
+pip install selenium
 ```  

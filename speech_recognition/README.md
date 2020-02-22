@@ -1,18 +1,18 @@
 
-# Wolframalpha API
+# speech_recognition Library
 
-- The API fetches the result from [www.wolframalpha.com](www.wolframalpha.com)
+- Library for performing speech recognition, with support for several engines and APIs, online and offline.
 
-- **USES**
-  - Calculate Integration or Differentiation of a function
-  - Solve basic Mathematical equations.
-  - Trignometric functions.
-  - Famous Mathematical Theorems.
-  - Get current Temperature of a Place.
+**USES**
+- Obtain voice input from microphone
+- Display the input voice as a text on console
+
+**Documentation**
+- Available at [pypi.org](https://pypi.org/project/SpeechRecognition/)
   
 
-- **Installation**
+**Installation**
 
 ```
-pip install wolframalpha
+pip install SpeechRecognition
 ```  

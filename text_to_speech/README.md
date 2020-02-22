@@ -1,18 +1,13 @@
 
-# Wolframalpha API
+# text_to_speech Library
 
-- The API fetches the result from [www.wolframalpha.com](www.wolframalpha.com)
+- The Library helps to generate output as a voice note
 
-- **USES**
-  - Calculate Integration or Differentiation of a function
-  - Solve basic Mathematical equations.
-  - Trignometric functions.
-  - Famous Mathematical Theorems.
-  - Get current Temperature of a Place.
-  
+**USES**
+- To output a result as speech
 
 - **Installation**
 
 ```
-pip install wolframalpha
+pip install text_to_speech
 ```  
