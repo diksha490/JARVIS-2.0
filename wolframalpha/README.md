@@ -10,6 +10,10 @@
   - Famous Mathematical Theorems.
   - Get current Temperature of a Place.
   
+  
+- **Documentation**
+  - Available at [HERE](https://products.wolframalpha.com/simple-api/documentation/)  
+  
 
 - **Installation**
 
