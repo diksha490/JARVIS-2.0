@@ -9,7 +9,7 @@ Author-Saurabh Puri
 
 ```
 
-**J.A.R.V.I.S. (Just A Rather Very Intelligent System)** 
+##J.A.R.V.I.S. (Just A Rather Very Intelligent System)## 
 
 An attempt to make a very simple but useful personal assistant for users . 
 The interaction with the assistant gets better with the implementation of GUI for resolving user queries.
