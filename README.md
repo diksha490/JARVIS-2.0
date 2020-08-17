@@ -1,8 +1,6 @@
 
 # JARVIS 2.0 (Enhanced)
 
-Author-Saurabh Puri
-
 **Technology Used**
 ```
 - Python 3.7.x
